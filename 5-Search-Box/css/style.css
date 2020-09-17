@@ -22,6 +22,10 @@ body{
 	padding: 0 6px;
 }
 
+.search-box:hover > .search-btn{
+	background: white;
+}
+
 ::placeholder{
 	color: #fff;
 }
